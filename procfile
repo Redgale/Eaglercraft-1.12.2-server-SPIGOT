@@ -1,1 +1,1 @@
-web: java -jar server.jar
+web: java -Xmx1024M -Xms1024M -jar server.jar nogui
